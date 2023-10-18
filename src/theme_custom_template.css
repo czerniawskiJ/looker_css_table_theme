@@ -73,8 +73,9 @@
 
 }
 
-.headerCell {
-  border-top: 1px solid #0226660 !important;
+th.headerCell {
+    background-color:#022666;
+  border-top: 1px solid #000000 !important;
   font-weight: bold;
   padding: 5px;
 }
