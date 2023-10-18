@@ -74,7 +74,7 @@
 }
 
 .headerCell {
-  border-bottom: 1px solid #0226660 !important;
+  border-top: 1px solid #0226660 !important;
   font-weight: bold;
   padding: 5px;
 }
