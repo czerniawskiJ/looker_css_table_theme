@@ -72,15 +72,15 @@
 
 }
 
-.left {
-  text-align: left;
+.center {
+  text-align: center;
 
   /* Add customization here  */
 
 }
 
-.right {
-  text-align: right !important;
+.center {
+  text-align: center !important;
 
   /* Add customization here  */
 
