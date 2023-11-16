@@ -50,7 +50,7 @@
 }
 
 .reportTable th {
-  color: #000000;
+  color: #FFFFFF;
   border: 1px solid #CCCCCC; 
   border-bottom: 1px solid #CCCCCC !important;
   /* font-size: 10px;  */
@@ -75,7 +75,7 @@
 
 th.headerCell {
     background-color:#022666;
-  border-top: 1px solid #000000 !important;
+  border-top: 1px solid #FFFFFF !important;
   font-weight: bold;
   padding: 5px;
 }
