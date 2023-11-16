@@ -45,6 +45,7 @@
   border-collapse: collapse;
   border-spacing: 3px;
   horizontal-align: middle;
+     text-align: center;
   /* Add customization here  */
 
 }
@@ -57,6 +58,7 @@
   /* height: 25px; */
   padding: 5px;
     horizontal-align: middle;
+     text-align: center;
   /* Add customization here  */
 
 }
@@ -65,6 +67,7 @@
   color: #000000;
   vertical-align: middle;
     horizontal-align: middle;
+     text-align: center;
   padding: 5px;
   /*background: #FFFFFF;*/
   border: 1px solid #CCCCCC; 
