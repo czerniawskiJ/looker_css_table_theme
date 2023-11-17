@@ -44,7 +44,6 @@
   border: 1px solid #CCCCCC; 
   border-collapse: collapse;
   border-spacing: 3px;
-  horizontal-align: middle;
   /* Add customization here  */
 
 }
@@ -56,7 +55,6 @@
   /* font-size: 10px;  */
   /* height: 25px; */
   padding: 5px;
-    horizontal-align: middle;
   /* Add customization here  */
 
 }
@@ -64,8 +62,7 @@
 .reportTable td {
   color: #000000;
   vertical-align: middle;
-    horizontal-align: middle;
-     text-align: center;
+
   padding: 5px;
   /*background: #FFFFFF;*/
   border: 1px solid #CCCCCC; 
@@ -80,7 +77,7 @@ th.headerCell {
   border-top: 1px solid #FFFFFF !important;
   font-weight: bold;
   padding: 5px;
-    horizontal-align: middle;
+
     color: #FFFFFF;
 }
 
